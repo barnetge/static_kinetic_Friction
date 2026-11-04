@@ -1,0 +1,6 @@
+{
+  "name": "Friction Lab: Push & Slide!",
+  "description": "An engaging, interactive physics simulation for elementary students (K-8) exploring static vs kinetic friction, live force meters, vector arrows, and adjustable surfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
